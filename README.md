@@ -140,7 +140,7 @@ $ ibmcloud target --cf
 $ ibmcloud app push
 ```
 
-4. A pedir Pizzas!
+4. A Reciclar!
 
 # Contactos #
 
