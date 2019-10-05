@@ -97,7 +97,7 @@ applications:
 - path: ./server
   memory: 256M
   instances: 1
-  name: watson-vehicle-damage-analyzer
+  name: campuspartyNN-wvda-visual-recognition
   disk_quota: 512M
   random-route: false
   services:
